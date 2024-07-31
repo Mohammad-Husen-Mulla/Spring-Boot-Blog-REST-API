@@ -16,8 +16,8 @@ import java.util.TimeZone;
 @OpenAPIDefinition(
         info = @Info(
                 title = "Spring-Boot-Blog-REST-API",
-                description = "Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.",
-                summary = "Restful CRUD Blog API using Spring Boot, Spring Security, JWT, Mysql, JPA",
+                description = "A RESTful webservice for managing blog posts, built with Spring Boot. Includes JWT-based authentication and MySQL for data storage.",
+                summary = "Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.",
                 version = "1.0.1"
         )
 )
